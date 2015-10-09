@@ -1,0 +1,59 @@
+[33mcommit e1ca7255312993cfd66ef579b93e0a10873e94ad[m
+Author: metershine <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 20:44:34 2015 +0800
+
+    delete
+
+[33mcommit 09dbc132164783c2d3f9203ae4004953d72648f3[m
+Author: metershine <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 20:42:26 2015 +0800
+
+    Revert "Revert "add a hello""
+    
+    This reverts commit 68d13710ff025440eb4fdc2522283e058e9699a5.
+
+[33mcommit 68d13710ff025440eb4fdc2522283e058e9699a5[m
+Author: metershine <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 20:42:08 2015 +0800
+
+    Revert "add a hello"
+    
+    This reverts commit 09d90f2c4b5ea5c019547bc1642d363108ff2dcd.
+
+[33mcommit 09d90f2c4b5ea5c019547bc1642d363108ff2dcd[m
+Author: metershine <zhangwei307@hotmail.com>
+Date:   Fri Oct 9 19:49:10 2015 +0800
+
+    add a hello
+    
+    nothing changed
+
+[33mcommit b5ff2a0d7435cf107514bda3729e65f9aca5c0fe[m
+Author: unknown <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 15:16:55 2015 +0800
+
+    delete lince file
+
+[33mcommit 9bdf7734644836b6f8bbd40d5b95e758e2559ec9[m
+Author: unknown <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 15:15:24 2015 +0800
+
+    add the lince file
+
+[33mcommit d3f5726a6d6ab7adfcd46efffd6779b77ab8b49a[m
+Author: unknown <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 15:06:41 2015 +0800
+
+    append GPL
+
+[33mcommit 3572266f0eb03c0add3e679a26552718b7652dfd[m
+Author: unknown <bl06331@bl06331.800best.net>
+Date:   Fri Oct 9 13:59:00 2015 +0800
+
+    wrote a readme file
+
+[33mcommit 622e6efa242f816e18ac7441cd689530abfea9e7[m
+Author: metershine <zhangwei307@hotmail.com>
+Date:   Fri Oct 9 13:22:36 2015 +0800
+
+    Initial commit
