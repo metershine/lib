@@ -1,1 +1,3 @@
 # lib
+As this is my first doctment at the first project, and also I'm learning how to use this tool to help my study and work.
+But no matter how difficult is will be and how ...
